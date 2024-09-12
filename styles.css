@@ -9,7 +9,7 @@ body {
   padding: 0;
 }
 
-.your__class__Container .visually-hidden {
+.hisense-u6kq .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -22,38 +22,38 @@ body {
   overflow: hidden;
 }
 
-.your__class__Container img {
+.hisense-u6kq img {
   margin: 0;
 }
 
-.your__class__Container p {
-  padding: 0;
-  margin: 0;
-}
-
-.your__class__Container h3 {
+.hisense-u6kq p {
   padding: 0;
   margin: 0;
 }
 
-.your__class__Container ul {
+.hisense-u6kq h3 {
+  padding: 0;
+  margin: 0;
+}
+
+.hisense-u6kq ul {
   padding: 0;
 }
 
-.your__class__Container ul li {
+.hisense-u6kq ul li {
   padding: 0;
 }
 
-.your__class__Container {
+.hisense-u6kq {
   overflow: hidden;
 }
 
-.your__class__Container div {
+.hisense-u6kq div {
   padding: 0;
   width: initial;
 }
 
-.your__class__Container br {
+.hisense-u6kq br {
   display: block;
 }
 
