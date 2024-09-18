@@ -167,12 +167,12 @@ body {
   background: #564244;
   display: grid;
   justify-content: center;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr 157px;
 }
 .hisense-u6kq .adaptation-container {
   display: grid;
   gap: 18px;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr 27px 17px;
   justify-items: center;
 }
 .hisense-u6kq .adaptation-title {
@@ -186,12 +186,22 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.hisense-u6kq .adaptation-icons {
+.hisense-u6kq .adaptation-icons-white {
   width: 245px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 18px;
   justify-items: center;
+  align-items: center;
+}
+
+.hisense-u6kq .adaptation-icons-colors {
+  width: 118px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  justify-items: center;
+  align-items: center;
 }
 
 .hisense-u6kq .adaptation-icon-1 {
