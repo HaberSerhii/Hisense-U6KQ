@@ -893,6 +893,7 @@ body {
   .hisense-u6kq .adaptation-container {
     gap: 24px;
     width: 650px;
+    grid-template-rows: 1fr 36px;
   }
 
   .hisense-u6kq .adaptation-title {
@@ -1084,4 +1085,231 @@ body {
 }
 
 @media (min-width: 1366px) {
+  .hisense-u6kq .hero {
+    padding: 60px 0px 0px 60px;
+    grid-template-columns: 1fr 801px;
+    grid-template-rows: 489px;
+  }
+
+  .hisense-u6kq .hero-title-container {
+    width: 505px;
+  }
+  .hisense-u6kq .hero-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .hero-title-image {
+    height: 31px;
+  }
+
+  .hisense-u6kq .hero-icons-container {
+    grid-template-columns: 142px 256px;
+  }
+
+  .hisense-u6kq .quantum-color {
+    height: 768px;
+  }
+
+  .hisense-u6kq .quantum-color-container {
+    border-radius: 40px;
+    width: 1034px;
+    height: 196px;
+  }
+
+  .hisense-u6kq .quantum-color-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .quantum-color-logo {
+    width: 188px;
+  }
+
+  .hisense-u6kq .ai {
+    padding: 60px 0px 0px 0px;
+    grid-template-rows: 1fr 632px;
+  }
+
+  .hisense-u6kq .ai-title-container {
+    gap: 24px;
+  }
+
+  .hisense-u6kq .ai-logo {
+    width: 285px;
+  }
+
+  .hisense-u6kq .ai-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .adaptation {
+    padding-top: 60px;
+    grid-template-rows: 1fr 599px;
+  }
+
+  .hisense-u6kq .adaptation-container {
+    gap: 24px;
+    width: 1000px;
+    grid-template-rows: 1fr 50px;
+  }
+
+  .hisense-u6kq .adaptation-title {
+    margin-left: 55px;
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .adaptation-icons-white {
+    width: 471px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .adaptation-icons-colors {
+    width: 208px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .adaptation-icon-1 {
+    width: 232px;
+  }
+
+  .hisense-u6kq .adaptation-icon-2 {
+    width: 215px;
+  }
+
+  .hisense-u6kq .adaptation-icon-3 {
+    width: 100px;
+  }
+
+  .hisense-u6kq .adaptation-icon-4 {
+    width: 84px;
+  }
+
+  .hisense-u6kq .quality {
+    grid-template-rows: 520px;
+  }
+
+  .hisense-u6kq .quality-container {
+    margin-left: 166px;
+  }
+
+  .hisense-u6kq .quality-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .quality-icons-container {
+    width: 220px;
+  }
+
+  .hisense-u6kq .quality-icon:nth-child(2) {
+    width: 100px;
+  }
+
+  .hisense-u6kq .quality-icon:nth-child(3) {
+    width: 84px;
+  }
+
+  .hisense-u6kq .hear-watch {
+    padding: 0px 0px 60px 0px;
+    grid-template-rows: 768px 82px;
+  }
+
+  .hisense-u6kq .hear-watch-container {
+    top: 88%;
+  }
+
+  .hisense-u6kq .hear-watch-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .hear-watch-description {
+    font-size: 20px;
+  }
+
+  .hisense-u6kq .hear-watch-icon {
+    width: 85px;
+  }
+
+  .hisense-u6kq .filmmaker {
+    height: 769px;
+  }
+
+  .hisense-u6kq .filmmaker-container {
+    width: 1034px;
+    padding: 0 0 60px 0;
+  }
+
+  .hisense-u6kq .filmmaker-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .filmmaker-icon {
+    width: 188px;
+  }
+
+  .hisense-u6kq .game-mode-container {
+    padding: 60px 0px 60px 130px;
+  }
+
+  .hisense-u6kq .game-mode-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .game-mode-description-title {
+    font-size: 30px;
+  }
+
+  .hisense-u6kq .game-mode-icons-container {
+    grid-template-columns: 126px 85px;
+  }
+
+  .hisense-u6kq .game-mode-description {
+    font-size: 20px;
+  }
+
+  .hisense-u6kq .sport-emotion-container {
+    padding: 120px 0px 120px 117px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .sport-emotion-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .sport-emotion-icon {
+    width: 246px;
+  }
+
+  .hisense-u6kq .ai-optimisation {
+    padding: 42px 0px 0px 0px;
+  }
+
+  .hisense-u6kq .ai-optimisation-container {
+    width: 1034px;
+  }
+
+  .hisense-u6kq .ai-optimisation-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .ai-optimisation-icon {
+    width: 282px;
+  }
+
+  .hisense-u6kq .ezplay-title {
+    font-size: 44px;
+  }
+
+  .hisense-u6kq .ezplay-icon {
+    width: 84px;
+  }
+
+  .hisense-u6kq .os-vidaa-container {
+    padding: 93px 0px 93px 140px;
+  }
+
+  .hisense-u6kq .os-vidaa-icon {
+    width: 134px;
+  }
+  .hisense-u6kq .os-vidaa-title {
+    font-size: 44px;
+  }
 }
