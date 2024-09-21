@@ -64,8 +64,6 @@ body {
 
 /* main */
 
-/* HERO */
-
 .hisense-u6kq .hero {
   display: grid;
   justify-items: center;
@@ -494,4 +492,596 @@ body {
   font-size: 24px;
   line-height: 130%;
   color: #fff;
+}
+
+@media (min-width: 768px) {
+  .hisense-u6kq .hero {
+    padding: 32px 0px 0px 16px;
+    display: grid;
+    justify-content: baseline;
+    grid-template-columns: 1fr 429px;
+    grid-template-rows: 262px;
+  }
+  .hisense-u6kq .hero-title-container {
+    width: 267px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 18px;
+  }
+  .hisense-u6kq .hero-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+  .hisense-u6kq .hero-title-image {
+    height: 16px;
+    grid-row: 2/3;
+  }
+  .hisense-u6kq .hero-icons-container {
+    display: grid;
+    column-gap: 18px;
+    grid-template-columns: 76px 135px;
+  }
+
+  .hisense-u6kq .quantum-color {
+    height: 404px;
+    padding: 0;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .hisense-u6kq .quantum-color-container {
+    border-radius: 24px;
+    padding: 0px;
+    width: 543px;
+    height: 115px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    justify-content: center;
+    align-items: center;
+  }
+  .hisense-u6kq .quantum-color-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .quantum-color-logo {
+    width: 99px;
+  }
+
+  .hisense-u6kq .ai {
+    background-color: #191b27;
+    padding: 32px 0px 0px 0px;
+    display: grid;
+    grid-template-rows: 1fr 334px;
+  }
+
+  .hisense-u6kq .ai-title-container {
+    display: grid;
+    gap: 18px;
+    justify-items: center;
+  }
+
+  .hisense-u6kq .ai-logo {
+    width: 151px;
+  }
+
+  .hisense-u6kq .ai-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .adaptation {
+    grid-template-rows: 1fr 316px;
+    justify-items: center;
+  }
+
+  .hisense-u6kq .adaptation-container {
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 1fr 27px;
+    justify-items: start;
+    width: 465px;
+  }
+
+  .hisense-u6kq .adaptation-title {
+    font-size: 24px;
+    line-height: 130%;
+    grid-column: 1/7;
+  }
+
+  .hisense-u6kq .adaptation-icons-white {
+    width: 245px;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    grid-column: 2/4;
+  }
+
+  .hisense-u6kq .adaptation-icons-colors {
+    width: 118px;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    grid-column: 4/6;
+  }
+
+  .hisense-u6kq .adaptation-icon-1 {
+    width: 125px;
+  }
+
+  .hisense-u6kq .adaptation-icon-2 {
+    width: 102px;
+  }
+
+  .hisense-u6kq .adaptation-icon-3 {
+    width: 54px;
+  }
+
+  .hisense-u6kq .adaptation-icon-4 {
+    width: 46px;
+  }
+
+  .hisense-u6kq .quality {
+    padding: 0px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 269px;
+    gap: 24px;
+  }
+  .hisense-u6kq .quality-container {
+    margin-left: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 18px;
+  }
+  .hisense-u6kq .quality-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+  .hisense-u6kq .quality-icons-container {
+    width: 116px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+  }
+  .hisense-u6kq .quality-icon {
+    width: 100%;
+  }
+  .hisense-u6kq .quality-icon:nth-child(1) {
+    grid-column: 1/3;
+  }
+
+  .hisense-u6kq .quality-icon:nth-child(2) {
+    width: 53px;
+  }
+
+  .hisense-u6kq .quality-icon:nth-child(3) {
+    width: 46px;
+  }
+
+  .hisense-u6kq .hear-watch {
+    padding: 0px 0px 32px 0px;
+    display: grid;
+    grid-template-rows: 404px 59px;
+  }
+
+  .hisense-u6kq .hear-watch-container {
+    gap: 16px;
+    top: 90%;
+  }
+
+  .hisense-u6kq .hear-watch-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .hear-watch-description {
+    font-size: 14px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .hear-watch-icon {
+    width: 45px;
+  }
+
+  .hisense-u6kq .filmmaker {
+    height: 406px;
+    align-items: end;
+  }
+  .hisense-u6kq .filmmaker-container {
+    width: 558px;
+    border-radius: 0px;
+    padding: 0 0 32px 0;
+    background: rgba(0, 0, 0, 0);
+    gap: 18px;
+  }
+  .hisense-u6kq .filmmaker-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .filmmaker-icon {
+    width: 99px;
+  }
+
+  .hisense-u6kq .game-mode {
+    padding: 0;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+  .hisense-u6kq .game-mode-container {
+    padding: 0px 0px 0px 32px;
+    gap: 18px;
+  }
+  .hisense-u6kq .game-mode-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .game-mode-description-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .game-mode-icons-container {
+    grid-template-columns: 66px 45px;
+    gap: 18px;
+  }
+
+  .hisense-u6kq .game-mode-description {
+    font-size: 14px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .sport-emotion {
+    padding: 0px;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .sport-emotion-container {
+    padding: 0px 0px 0px 32px;
+    gap: 18px;
+  }
+
+  .hisense-u6kq .sport-emotion-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .sport-emotion-icon {
+    width: 131px;
+  }
+
+  .hisense-u6kq .ai-optimisation {
+    padding: 32px 0px 0px 0px;
+    display: grid;
+    justify-items: center;
+  }
+
+  .hisense-u6kq .ai-optimisation-container {
+    width: 545px;
+    gap: 18px;
+    justify-items: center;
+  }
+
+  .hisense-u6kq .ai-optimisation-title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+
+  .hisense-u6kq .ai-optimisation-icon {
+    width: 156px;
+  }
+
+  .hisense-u6kq .ezplay {
+    padding: 0px;
+    gap: 24px;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+
+  .hisense-u6kq .ezplay-container {
+    padding: 0px 0px 0px 32px;
+    display: grid;
+    gap: 18px;
+  }
+  .hisense-u6kq .ezplay-title {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 130%;
+    background: linear-gradient(90deg, #c99e3e 0%, #f4d786 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hisense-u6kq .ezplay-icon {
+    width: 47px;
+  }
+
+  .hisense-u6kq .os-vidaa {
+    padding: 0px;
+    gap: 24px;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+  .hisense-u6kq .os-vidaa-container {
+    padding: 0px 0px 0px 32px;
+    gap: 18px;
+  }
+  .hisense-u6kq .os-vidaa-icon {
+    width: 72px;
+  }
+  .hisense-u6kq .os-vidaa-title {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 130%;
+    color: #fff;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hisense-u6kq .hero {
+    padding: 42px 0px 0px 40px;
+    grid-template-columns: 1fr 577px;
+    grid-template-rows: 352px;
+  }
+
+  .hisense-u6kq .hero-title-container {
+    padding: 0;
+    width: 360px;
+    gap: 24px;
+  }
+  .hisense-u6kq .hero-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .hero-title-image {
+    height: 22px;
+    grid-row: 2/3;
+  }
+
+  .hisense-u6kq .hero-icons-container {
+    column-gap: 24px;
+    grid-template-columns: 102px 183px;
+  }
+
+  .hisense-u6kq .quantum-color {
+    height: 548px;
+  }
+
+  .hisense-u6kq .quantum-color-container {
+    border-radius: 24px;
+    width: 743px;
+    height: 147px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .quantum-color-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .quantum-color-logo {
+    width: 135px;
+  }
+
+  .hisense-u6kq .ai {
+    padding: 42px 0px 0px 0px;
+    grid-template-rows: 1fr 452px;
+  }
+
+  .hisense-u6kq .ai-title-container {
+    gap: 24px;
+  }
+
+  .hisense-u6kq .ai-logo {
+    width: 204px;
+  }
+
+  .hisense-u6kq .ai-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .adaptation {
+    grid-template-rows: 1fr 428px;
+  }
+
+  .hisense-u6kq .adaptation-container {
+    gap: 24px;
+    width: 650px;
+  }
+
+  .hisense-u6kq .adaptation-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .adaptation-icons-white {
+    align-items: center;
+    width: 342px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .adaptation-icons-colors {
+    width: 155px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .adaptation-icon-1 {
+    width: 167px;
+  }
+
+  .hisense-u6kq .adaptation-icon-2 {
+    width: 151px;
+  }
+
+  .hisense-u6kq .adaptation-icon-3 {
+    width: 71px;
+  }
+
+  .hisense-u6kq .adaptation-icon-4 {
+    width: 60px;
+  }
+
+  .hisense-u6kq .quality {
+    padding: 0px;
+    grid-template-rows: 368px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .quality-container {
+    margin-left: 117px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .quality-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .quality-icons-container {
+    width: 156px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .quality-icon:nth-child(2) {
+    width: 72px;
+  }
+
+  .hisense-u6kq .quality-icon:nth-child(3) {
+    width: 60px;
+  }
+
+  .hisense-u6kq .hear-watch {
+    padding: 0px 0px 42px 0px;
+    grid-template-rows: 548px 75px;
+  }
+
+  .hisense-u6kq .hear-watch-container {
+    gap: 24px;
+    top: 90%;
+  }
+
+  .hisense-u6kq .hear-watch-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .hear-watch-description {
+    font-size: 16px;
+  }
+
+  .hisense-u6kq .hear-watch-icon {
+    width: 61px;
+  }
+
+  .hisense-u6kq .filmmaker {
+    height: 550px;
+  }
+
+  .hisense-u6kq .filmmaker-container {
+    width: 738px;
+    padding: 0 0 40px 0;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .filmmaker-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .filmmaker-icon {
+    width: 134px;
+  }
+
+  .hisense-u6kq .game-mode {
+    gap: 24px;
+  }
+
+  .hisense-u6kq .game-mode-container {
+    padding: 20px 0px 20px 105px;
+    gap: 24px;
+  }
+  .hisense-u6kq .game-mode-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .game-mode-description-title {
+    font-size: 26px;
+  }
+
+  .hisense-u6kq .game-mode-icons-container {
+    grid-template-columns: 90px 61px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .game-mode-description {
+    font-size: 16px;
+  }
+
+  .hisense-u6kq .sport-emotion {
+    gap: 24px;
+  }
+
+  .hisense-u6kq .sport-emotion-container {
+    padding: 120px 0px 120px 117px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .sport-emotion-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .sport-emotion-icon {
+    width: 177px;
+  }
+
+  .hisense-u6kq .ai-optimisation {
+    padding: 42px 0px 0px 0px;
+  }
+
+  .hisense-u6kq .ai-optimisation-container {
+    width: 645px;
+    gap: 24px;
+  }
+
+  .hisense-u6kq .ai-optimisation-title {
+    font-size: 32px;
+  }
+
+  .hisense-u6kq .ai-optimisation-icon {
+    width: 206px;
+  }
+
+  .hisense-u6kq .ezplay {
+    gap: 24px;
+  }
+
+  .hisense-u6kq .ezplay-container {
+    padding: 57px 0px 57px 115px;
+    gap: 24px;
+  }
+  .hisense-u6kq .ezplay-title {
+    font-size: 32px;
+  }
+  .hisense-u6kq .ezplay-icon {
+    width: 61px;
+  }
+
+  .hisense-u6kq .os-vidaa {
+    gap: 24px;
+  }
+  .hisense-u6kq .os-vidaa-container {
+    padding: 93px 0px 93px 100px;
+    gap: 24px;
+  }
+  .hisense-u6kq .os-vidaa-icon {
+    width: 96px;
+  }
+  .hisense-u6kq .os-vidaa-title {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 1366px) {
 }
