@@ -1,5 +1,4 @@
-@import url(./template.css);
-
+<style type="text/css">
 .product__description.base-padding {
   padding: 0;
   border-radius: 0px;
@@ -1313,3 +1312,150 @@ body {
     font-size: 44px;
   }
 }
+</style>
+
+<div class="hisense-u6kq">
+            <div class="hero">
+                <div class="hero-title-container">
+                    <h3 class="hero-title">Мінісвітлодіоди — гігантські можливості</h3>
+                    <div class="hero-icons-container"><img
+                            src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/led.webp" alt=""
+                            class="hero-title-image">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/full-array.webp" alt=""
+                            class="hero-title-image">
+                    </div>
+                </div>
+                <div class="hero-image-container"></div>
+            </div>
+            <div class="quantum-color">
+                <div class="quantum-color-container">
+                    <h3 class="quantum-color-title">Мільярди яскравих кольорів</h3>
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/logo-quantum.webp" alt=""
+                        class="quantum-color-logo">
+                </div>
+            </div>
+            <div class="ai">
+                <div class="ai-title-container">
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/hi-view.webp" alt="" class="ai-logo">
+                    <h3 class="ai-title">Потужність штучного інтелекту в кожній сцені</h3>
+                </div>
+                <div class="ai-image"></div>
+            </div>
+            <div class="adaptation">
+                <div class="adaptation-container">
+                    <h3 class="adaptation-title">Інтелектуальна адаптація зображення</h3>
+                    <div class="adaptation-icons-white">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation-icon-1.webp" alt=""
+                            class="adaptation-icon-1">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation-icon-2.webp" alt=""
+                            class="adaptation-icon-2">
+                    </div>
+                    <div class="adaptation-icons-colors">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation-icon-3.webp" alt=""
+                            class="adaptation-icon-3">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation-icon-4.webp" alt=""
+                            class="adaptation-icon-4">
+                    </div>
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation.webp" alt=""
+                    class="adaptation-image">
+            </div>
+            <div class="quality">
+                <div class="quality-container">
+                    <h3 class="quality-title">Бездоганна якість
+                        зображення</h3>
+                    <div class="quality-icons-container">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/hdr.webp" alt=""
+                            class="quality-icon">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation-icon-3.webp" alt=""
+                            class="quality-icon">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/adaptation-icon-4.webp" alt=""
+                            class="quality-icon">
+                    </div>
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/quality-image.webp" alt=""
+                    class="quality-image">
+            </div>
+            <div class="hear-watch">
+                <div class="hear-watch-image-container">
+                    <div class="hear-watch-container">
+                        <h3 class="hear-watch-title">Бачити й чути більше</h3>
+                        <p class="hear-watch-description">Найкращі технології Dolby Vision та Atmos</p>
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/dolby-atmos.webp" alt=""
+                            class="hear-watch-icon">
+                    </div>
+                </div>
+                <div class="hear-watch-bg-black"></div>
+            </div>
+            <div class="filmmaker">
+                <div class="filmmaker-container">
+                    <h3 class="filmmaker-title">Побачте фільми й серіали такими,
+                        якими їх уявляли собі голлівудські режисери</h3>
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/film-maker-icon.webp" alt=""
+                        class="filmmaker-icon">
+                </div>
+            </div>
+            <div class="game-mode">
+                <div class="game-mode-container">
+                    <h3 class="game-mode-title">Плавний ігровий процес із неймовірною швидкістю реакції!</h3>
+                    <div class="game-mode-icons-container">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/game-mode-icon.webp" alt=""
+                            class="game-mode-icon">
+                        <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/dolby-atmos.webp" alt=""
+                            class="dolby-atmos">
+                    </div>
+                    <div class="game-mode-description-container">
+                        <h3 class="game-mode-description-title">VRR</h3>
+                        <p class="game-mode-description">плавний ігровий процес і візуальні ефети</p>
+                    </div>
+                    <div class="game-mode-description-container">
+                        <h3 class="game-mode-description-title">ALLM</h3>
+                        <p class="game-mode-description">мала затримка для швидшої гри</p>
+                    </div>
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/game-mode.webp" alt=""
+                    class="game-mode-image">
+            </div>
+            <div class="sport-emotion">
+                <div class="sport-emotion-container">
+                    <h3 class="sport-emotion-title">Відчувайте спортивні
+                        емоції, як на стадіоні</h3>
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/sport-mode.webp" alt=""
+                        class="sport-emotion-icon">
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/sport-emotion.webp" alt=""
+                    class="sport-emotion-image">
+            </div>
+            <div class="ai-optimisation">
+                <div class="ai-optimisation-container">
+                    <h3 class="ai-optimisation-title">Ідеально яскраве, приголомшливо
+                        деталізоване зображення</h3>
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/ai-optimisation-icon.webp" alt=""
+                        class="ai-optimisation-icon">
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/ai-optimisation.webp" alt=""
+                    class="ai-optimisation-image">
+            </div>
+            <div class="ezplay">
+                <div class="ezplay-container">
+                    <h3 class="ezplay-title">Керуйте телевізором і звуковою панеллю за допомогою 1 пульта дистанційного
+                        керування</h3>
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/ezplay-icon.webp" alt=""
+                        class="ezplay-icon">
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/ezplay-image.webp" alt=""
+                    class="ezplay-image">
+            </div>
+            <div class="os-vidaa">
+                <div class="os-vidaa-container">
+                    <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/os-vidaa-icon.webp" alt=""
+                        class="os-vidaa-icon">
+                    <h3 class="os-vidaa-title">Блискавична
+                        швидкість
+                        операційної
+                        системи</h3>
+                </div>
+                <img src="https://i.citrus.world/uploads/Haber/Hisense-u6kq/os-vidaa-image.webp" alt=""
+                    class="os-vidaa-image">
+            </div>
+        </div>
